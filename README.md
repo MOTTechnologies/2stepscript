@@ -1,4 +1,4 @@
-2stepscript
+2step & Anti-Lag Launch Control AutoAdding Script for ECUS Bosch ME7.X.
 ===========
 
 - you must have PHP installed.
